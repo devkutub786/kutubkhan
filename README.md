@@ -104,7 +104,7 @@ If you're here, don't forget to [follow me](https://www.google.com/search?q=http
 
 Your support helps me dedicate more time to developing high-quality, impactful projects in the open-source community. Sponsor me, and together, let’s bring even more innovation to life\!
 
-[](https://kmerchant.netlify.app)
+[Portfolio](https://kmerchant.netlify.app)
 
 ## 🌐 Connect with Me
 
