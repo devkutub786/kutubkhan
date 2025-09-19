@@ -1,10 +1,10 @@
-Of course. Here is a GitHub profile README for Kutubkhan Merchant, created using the information from the provided resume and formatted according to the template you shared.
+
 
 -----
 
 # Hi there 👋, I'm Kutubkhan Merchant\! 
 
-[][portfolio]
+[Portfolio](https://kmerchant.netlify.app)
 
 ## 💼 About Me
 
@@ -104,7 +104,7 @@ If you're here, don't forget to [follow me](https://www.google.com/search?q=http
 
 Your support helps me dedicate more time to developing high-quality, impactful projects in the open-source community. Sponsor me, and together, let’s bring even more innovation to life\!
 
-[Portfolio](https://kmerchant.netlify.app)
+
 
 ## 🌐 Connect with Me
 
